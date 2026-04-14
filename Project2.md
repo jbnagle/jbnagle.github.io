@@ -1,6 +1,6 @@
 [Back to Portfolio](./)
 
-Project 2 Title
+HTML Parser | CSCI 315
 ===============
 
 -   **Class:CSCI 315 : Data Structures Analysis ** 
