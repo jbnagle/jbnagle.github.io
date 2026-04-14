@@ -36,11 +36,9 @@ Fig 2. Search Page
 ![screenshot](images/Screenshot 2026-04-14 184407.png)  
 Fig 3. Help/Documents Page
 
-![screenshot](images/Screenshot 2026-04-14 120112.png)  
-Fig 4. Matching Game
+![screenshot](images/Screenshot 2026-04-14 184434.png)  
+Fig 4. Example Results Page
 
-![screenshot](images/Screenshot 2026-04-14 120835.png)  
-Fig 5. Performance Dashboard
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
