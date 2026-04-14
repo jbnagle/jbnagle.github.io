@@ -33,8 +33,8 @@ Fig 1. Home Page
 ![screenshot](images/Screenshot 2026-04-14 184359.png)  
 Fig 2. Search Page
 
-![screenshot](images/Screenshot 2026-04-14 115644.png)  
-Fig 3. Practice Mode
+![screenshot](images/Screenshot 2026-04-14 184407.png)  
+Fig 3. Help/Documents Page
 
 ![screenshot](images/Screenshot 2026-04-14 120112.png)  
 Fig 4. Matching Game
