@@ -36,7 +36,7 @@ Fig 2. Search Page
 ![screenshot](images/Screenshot 2026-04-14 184407.png)  
 Fig 3. Help/Documents Page
 
-![screenshot](images/Screenshot 2026-04-14 184434.png)  
+![screenshot](images/Screenshot 2026-04-14 191043.png)  
 Fig 4. Example Results Page
 
 
