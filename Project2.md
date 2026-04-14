@@ -10,6 +10,7 @@ Project 2 Title
     (Please [email me](mailto:example@csustudent.net?subject=GitHub%20Access) to request access.)
 
 ## Project description
+
 The purpose of this project is to implement an algorithm that determines the minimum number of overlapping sets required to cover all elements in a given input set. Each set represents a group of student IDs, and the goal is to select a combination of these groups so that all required students are included while minimizing the total number of students that must present. This project focuses on using efficient algorithms and data structures, particularly recursion and backtracking, to search for the optimal solution.
 
 
