@@ -35,14 +35,8 @@ Fig 1. Data File
 ![screenshot](images/Screenshot 2026-04-14 180519.png)  
 Fig 2. Terminal Results
 
-![screenshot](images/Screenshot 2026-04-14 115644.png)  
-Fig 3. Practice Mode
-
-![screenshot](images/Screenshot 2026-04-14 120112.png)  
-Fig 4. Matching Game
-
-![screenshot](images/Screenshot 2026-04-14 120835.png)  
-Fig 5. Performance Dashboard
+![screenshot](images/Screenshot 2026-04-14 180504.png)  
+Fig 3. PDF Graph Results
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
