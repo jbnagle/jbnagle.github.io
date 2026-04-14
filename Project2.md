@@ -10,7 +10,7 @@ Project 2 Title
     (Please [email me](mailto:example@csustudent.net?subject=GitHub%20Access) to request access.)
 
 ## Project description
-This project involves the design and development of a safe, interactive website that will be made to help fourth-grade students improve their multiplication and division skills. The website will offer a fun and educational experience through a variety of features such as timed challenges, game-like quizzes, and progress tracking. The main goal is to help students in building math fluency while also promoting cybersecurity safety habits.
+The purpose of this project is to implement an algorithm that determines the minimum number of overlapping sets required to cover all elements in a given input set. Each set represents a group of student IDs, and the goal is to select a combination of these groups so that all required students are included while minimizing the total number of students that must present. This project focuses on using efficient algorithms and data structures, particularly recursion and backtracking, to search for the optimal solution.
 
 
 ## How to compile and run the program
@@ -18,13 +18,15 @@ This project involves the design and development of a safe, interactive website 
 How to compile (if applicable) and run the project.
 
 ```bash
-Inside your python terminal:
-Use "python run.py"
+Inside your Terminal: cd CSCI-315-2025-Spring
+then, cd project3
+cd make clean (to clean the field)
+cd make (small30, large50, medium30, small30-timings, or large50-timings)
 ```
 
 ## UI Design
 
-The system allows students to interact with the platform through a web-based interface designed for practicing multiplication and division skills (see Fig 1). After logging into the system, students can select different learning activities such as quizzes, practice, matching games, and timed challenges (see Fig 2-4). During these activities, students answer math problems and receive immediate feedback on their performance. Once an activity is completed, the system records the student’s score and displays a summary of their results. Students can also view their progress through a performance dashboard that shows their past scores and overall improvement across activities (see Fig 5).
+This project uses a command-line interface. The user runs the program from the terminal and provides input sets through  data files (See Fig 1). The program processes the input and displays results directly in the terminal (See Fig 2), including the tested cover sets, the minimum number of elements required, and execution timing information. Output is formatted in a clear table-like structure so users can easily read and analyze the algorithm’s results. There is also an output for users to read via PDF (see Fig 3).
 
 ![screenshot](images/Screenshot 2026-04-14 113856.png)  
 Fig 1. The Dashboard
