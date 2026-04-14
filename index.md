@@ -17,7 +17,7 @@ Programming Projects
 ![Project 2 Thumbnail Name](images/dummy_thumbnail.jpg)
 
 ---
-### [Automated Parsing, Citation Extraction, and Content Analysis | CSCI 495](project3)
+### [Document Analysis | CSCI 495](project3)
 
 ![Project 3 Thumbnail Name](images/dummy_thumbnail.jpg)
 
