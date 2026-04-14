@@ -24,7 +24,7 @@ Use "python app.py"
 
 ## UI Design
 
-The system is designed as a document processing and analysis platform that accepts uploaded research papers and automatically extracts useful information. When a user uploads a file, the system stores the document, generates metadata such as file size, page count, and a SHA-256 hash for identification, and then runs a parsing process to detect citations within the text.
+The system is designed as a document processing and analysis platform that accepts uploaded research papers and automatically extracts useful information. When a user uploads a file, the system stores the document, generates metadata such as file size, page count, and a SHA-256 hash for identification, and then runs a parsing process to detect citations within the text. There is a main screen that allows for file upload and shows your most recent uploads (see in Fig 1). There is a search/filter page that allows the user to search for any file they are looking for (see in Fig 2). Finally, there is a Help/Documents page that instructs the user on how to use the app and the purpose (see in Fig 3).
 
 
 ![screenshot](images/Screenshot 2026-04-14 113856.png)  
