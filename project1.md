@@ -35,7 +35,7 @@ Fig 2. 60 Second Quiz Game
 ![screenshot](images/Screenshot 2026-04-14 115644.png)  
 Fig 3. Practice Mode
 
-![screenshot](images/Screenshot 2026-04-14 115644.png)  
+![screenshot](images/Screenshot 2026-04-14 120112.png)  
 Fig 3. Matching Game
 
 ![screenshot](images/Screenshot 2026-04-14 115644.png)  
