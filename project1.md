@@ -3,32 +3,28 @@
 Project 1 Title
 ===============
 
--   **Class:** 
--   **Grade:** 
--   **Language(s):** 
+-   **Class:CSCI 497-499 : Senior Project ** 
+-   **Grade: Pass** 
+-   **Language(s): HTML5, CSS3, JavaScript, Python, and SQL ** 
 -   **Source Code Repository:** [features/mastering-markdown](https://guides.github.com/features/mastering-markdown/)  
     (Please [email me](mailto:example@csustudent.net?subject=GitHub%20Access) to request access.)
 
 ## Project description
+This project involves the design and development of a safe, interactive website that will be made to help fourth-grade students improve their multiplication and division skills. The website will offer a fun and educational experience through a variety of features such as timed challenges, game-like quizzes, and progress tracking. The main goal is to help students in building math fluency while also promoting cybersecurity safety habits.
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
 
 ## How to compile and run the program
 
 How to compile (if applicable) and run the project.
 
 ```bash
-cd ./project
-python setup.py
+Inside your python terminal:
+Use "python run.py"
 ```
-
-If the programming language does not require compilation, the update the heading to be “How to run the program.” If your application is deployed on a remote service, including instructions on how to deploy it.
 
 ## UI Design
 
-Almost every program requires user interaction, even command-line programs. Include in this section the tasks the user can complete and what the program does. You don't need to include how it works here; that information may go in the project description or in an additional section, depending on its significance.
-
-Lorem ipsum dolor sit amet (see Fig 1), consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat (see Fig 2). Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum (see Fig 3).
+The system allows students to interact with the platform through a web-based interface designed for practicing multiplication and division skills (see Fig 1). After logging into the system, students can select different learning activities such as quizzes, practice, matching games, and timed challenges (see Fig 2-4). During these activities, students answer math problems and receive immediate feedback on their performance. Once an activity is completed, the system records the student’s score and displays a summary of their results (see Fig 5). Students can also view their progress through a performance dashboard that shows their past scores and overall improvement across activities (see Fig 6).
 
 ![screenshot](images/dummy_thumbnail.jpg)  
 Fig 1. The launch screen
