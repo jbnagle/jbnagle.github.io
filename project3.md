@@ -30,8 +30,8 @@ The system is designed as a document processing and analysis platform that accep
 ![screenshot](images/Screenshot 2026-04-14 184347.png)  
 Fig 1. Home Page
 
-![screenshot](images/Screenshot 2026-04-14 115336.png)  
-Fig 2. 60 Second Quiz Game
+![screenshot](images/Screenshot 2026-04-14 184359.png)  
+Fig 2. Search Page
 
 ![screenshot](images/Screenshot 2026-04-14 115644.png)  
 Fig 3. Practice Mode
