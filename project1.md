@@ -26,8 +26,8 @@ Use "python run.py"
 
 The system allows students to interact with the platform through a web-based interface designed for practicing multiplication and division skills (see Fig 1). After logging into the system, students can select different learning activities such as quizzes, practice, matching games, and timed challenges (see Fig 2-4). During these activities, students answer math problems and receive immediate feedback on their performance. Once an activity is completed, the system records the student’s score and displays a summary of their results (see Fig 5). Students can also view their progress through a performance dashboard that shows their past scores and overall improvement across activities (see Fig 6).
 
-![screenshot](images/dummy_thumbnail.jpg)  
-Fig 1. The launch screen
+![screenshot](images/images/Screenshot 2026-04-14 113856.png)  
+Fig 1. The Dashboard
 
 ![screenshot](images/dummy_thumbnail.jpg)  
 Fig 2. Example output after input is processed.
