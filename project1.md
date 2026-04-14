@@ -1,6 +1,6 @@
 [Back to Portfolio](./)
 
-Project 1 Title
+Math Problem Solving Website | CSCI 497-499
 ===============
 
 -   **Class:CSCI 497-499 : Senior Project ** 
