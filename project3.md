@@ -1,6 +1,6 @@
 [Back to Portfolio](./)
 
- Web Scraping | CSCI 495
+ Document Analysis | CSCI 495
 ===============
 
 -   **Class:CSCI 495** 
