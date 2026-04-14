@@ -32,8 +32,14 @@ Fig 1. The Dashboard
 ![screenshot](images/Screenshot 2026-04-14 115336.png)  
 Fig 2. 60 Second Quiz Game
 
-![screenshot](images/dummy_thumbnail.jpg)  
-Fig 3. Feedback when an error occurs.
+![screenshot](images/Screenshot 2026-04-14 115644.png)  
+Fig 3. Practice Mode
+
+![screenshot](images/Screenshot 2026-04-14 115644.png)  
+Fig 3. Matching Game
+
+![screenshot](images/Screenshot 2026-04-14 115644.png)  
+Fig 3. Performance Dashboard
 
 ## 3. Additional Considerations
 
