@@ -30,10 +30,10 @@ cd make (small30, large50, medium30, small30-timings, or large50-timings)
 This project uses a command-line interface. The user runs the program from the terminal and provides input sets through  data files (See Fig 1). The program processes the input and displays results directly in the terminal (See Fig 2), including the tested cover sets, the minimum number of elements required, and execution timing information. Output is formatted in a clear table-like structure so users can easily read and analyze the algorithm’s results. There is also an output for users to read via PDF (see Fig 3).
 
 ![screenshot](images/Screenshot 2026-04-14 180452.png)  
-Fig 1. The Dashboard
+Fig 1. Data File
 
-![screenshot](images/Screenshot 2026-04-14 115336.png)  
-Fig 2. 60 Second Quiz Game
+![screenshot](images/Screenshot 2026-04-14 180519.png)  
+Fig 2. Terminal Results
 
 ![screenshot](images/Screenshot 2026-04-14 115644.png)  
 Fig 3. Practice Mode
