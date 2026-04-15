@@ -25,6 +25,9 @@ Run Program
 ![screenshot](images/Screenshot 2026-04-14 200904.png)  
 Fig 1. Results
 
+## Other
+This smaller piece of code is very important to me because I can vividly remember the moment it really stood out to me. It was one of the first times I felt like coding truly “clicked.” Working through it made me realize that learning different aspects of programming was actually possible for me. That moment gave me the confidence to keep going, explore new languages, and eventually pursue my first job in the field. Looking back, it was a small piece of code, but it played a big role in motivating me to continue learning and growing as a developer.
+
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
