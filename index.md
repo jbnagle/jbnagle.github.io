@@ -19,7 +19,7 @@ Programming Projects
 ---
 ### [Document Analysis | CSCI 495](project3)
 
-![Project 3 Thumbnail Name](images/dummy_thumbnail.jpg)
+![Project 3 Thumbnail Name](images/Screenshot 2026-04-14 184347.png)
 
 ---
 ### [Creating and Testing Suricata IDS/IPS Detection Rules | CSCI 433](project4)
