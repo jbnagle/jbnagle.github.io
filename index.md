@@ -9,7 +9,7 @@ Programming Projects
 ---
 ### [Math Problem Solving Website | CSCI 497-499](project1)
 
-![Project 1 Thumbnail Name](images/dummy_thumbnail.jpg)
+![Project 1 Thumbnail Name](images/Screenshot 2026-04-14 113856.png)
 
 ---
 ### [Minimum Overlap Coverage | CSCI 315](Project2)
