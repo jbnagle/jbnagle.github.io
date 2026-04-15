@@ -24,7 +24,7 @@ Programming Projects
 ---
 ### [Creating and Testing Suricata IDS/IPS Detection Rules | CSCI 433](project4)
 
-![Project 4 Thumbnail Name](images/dummy_thumbnail.jpg)
+![Project 4 Thumbnail Name](images/Screenshot 2026-04-14 200904.png)
 
 ---
 
