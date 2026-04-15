@@ -22,7 +22,7 @@ Programming Projects
 ![Project 3 Thumbnail Name](images/Screenshot 2026-04-14 184347.png)
 
 ---
-### [Creating and Testing Suricata IDS/IPS Detection Rules | CSCI 433](project4)
+### [Football Announcer | CSCI 325](project4)
 
 ![Project 4 Thumbnail Name](images/Screenshot 2026-04-14 200904.png)
 
