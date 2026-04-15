@@ -3,7 +3,7 @@
  Document Analysis | CSCI 495
 ===============
 
--   **Class:CSCI 495** 
+-   **Class:CSCI 495: Sys Analy & Softw Design** 
 -   **Grade: A** 
 -   **Language(s): HTML, Python** 
 -   **Source Code Repository:** [features/mastering-markdown](https://guides.github.com/features/mastering-markdown/)  
