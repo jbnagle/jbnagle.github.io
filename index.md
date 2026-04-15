@@ -14,7 +14,7 @@ Programming Projects
 ---
 ### [Minimum Overlap Coverage | CSCI 315](Project2)
 
-![Project 2 Thumbnail Name](images/dummy_thumbnail.jpg)
+![Project 2 Thumbnail Name](images/Screenshot 2026-04-14 180504.png)
 
 ---
 ### [Document Analysis | CSCI 495](project3)
