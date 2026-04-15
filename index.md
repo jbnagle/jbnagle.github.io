@@ -41,7 +41,7 @@ Ethics Papers
 -   **Class: CSCI 315: Data Structures Analysis ** 
 -   **Grade: C**
 
-### [Paper 3 Title](pdf/Ethics1.pdf)
+### [ACM Code of Ethics](pdf/Ethics1.pdf)
 
 -   **Class: CSCI 495: Sys Analy & Softw Design** 
 -   **Grade: A**
