@@ -6,7 +6,7 @@ Math Problem Solving Website | CSCI 497-499
 -   **Class:CSCI 497-499 : Senior Project ** 
 -   **Grade: Pass** 
 -   **Language(s): HTML5, CSS3, JavaScript, Python, and SQL ** 
--   **Source Code Repository:** [features/mastering-markdown]([https://github.com/jbnagle/CSCI-497-499])  
+-   **Source Code Repository:** [jbnagle/CSCI-497-499]([https://github.com/jbnagle/CSCI-497-499])  
     (Please [email me](mailto:JBNagle@student.csuniv.net?subject=GitHub%20Access) to request access.)
 
 ## Project description
