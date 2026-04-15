@@ -51,7 +51,7 @@ Ethics Papers
 Presentations
 -------------
 
-### [Compromised Cell](pdf/Presentation2Portfolio.pdf)
+### [Compromised Cell](pdf/Presentation2Portfoli.pptx)
 
 - **Class:CSCI 352: Cyber security** 
 - **Grade: A**
