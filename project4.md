@@ -7,7 +7,7 @@ Football Announcer | CSCI 325
 -   **Grade: B** 
 -   **Language(s): JavaScript** 
 -   **Source Code Repository:** [features/mastering-markdown](https://guides.github.com/features/mastering-markdown/)  
-    (Please [email me](mailto:example@csustudent.net?subject=GitHub%20Access) to request access.)
+    (Please [email me](mailto:JBNagle@student.csuniv.net?subject=GitHub%20Access) to request access.)
 
 ## Project description
 This project involves creating a program that reads player data from another file and processes the information to identify position players. The program extracts relevant details such as player names, jersey numbers, and statistical data, then organizes and displays the information in a clear format. By parsing the file data and presenting the results, the program demonstrates how structured data can be processed and used to generate meaningful output.
