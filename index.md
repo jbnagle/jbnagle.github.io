@@ -31,7 +31,7 @@ Programming Projects
 Ethics Papers
 -------------
 
-### [Paper 1 Title](pdf/Ethical_Paper_CSCI419_Submission.pdf)
+### [Being Monitored at Work](pdf/Ethical_Paper_CSCI419_Submission.pdf)
 
 -   **Class: CSCI 419: Database Management**  
 -   **Grade: C**
