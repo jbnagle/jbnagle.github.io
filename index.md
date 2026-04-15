@@ -38,7 +38,7 @@ Ethics Papers
 
 ### [Therac - 25](pdf/ethics_paper_315.pdf)
 
--   **Class: CSCI 315: Data Structures Analysis ** 
+-   **Class: CSCI 315: Data Structures Analysis** 
 -   **Grade: C**
 
 ### [ACM Code of Ethics](pdf/Ethics1.pdf)
