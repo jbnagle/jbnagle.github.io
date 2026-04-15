@@ -33,8 +33,8 @@ Ethics Papers
 
 ### [Paper 1 Title](/pdf/sample_presentation.pdf)
 
--   **Class:**  
--   **Grade:**
+-   **Class: CSCI 419: Database Management**  
+-   **Grade: C**
 
 ### [Paper 2 Title](/pdf/sample_presentation.pdf)
 
