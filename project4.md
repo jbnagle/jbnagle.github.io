@@ -6,7 +6,7 @@ Football Announcer | CSCI 325
 -   **Class:CSCI 325 : Object-Oriented Programming** 
 -   **Grade: B** 
 -   **Language(s): JavaScript** 
--   **Source Code Repository:** [features/mastering-markdown]  
+-   **Source Code Repository:** [jbnagle/CSCI-497-499]  
     (Please [email me](mailto:JBNagle@student.csuniv.net?subject=GitHub%20Access) to request access.)
 
 ## Project description
