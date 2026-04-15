@@ -36,7 +36,7 @@ Ethics Papers
 -   **Class: CSCI 419: Database Management**  
 -   **Grade: C**
 
-### [Paper 2 Title](/pdf/sample_presentation.pdf)
+### [Therac - 25](/pdf/sample_presentation.pdf)
 
 -   **Class:** 
 -   **Grade:**
