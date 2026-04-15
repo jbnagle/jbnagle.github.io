@@ -7,7 +7,7 @@
 -   **Grade: A** 
 -   **Language(s): HTML, Python** 
 -   **Source Code Repository:** [features/mastering-markdown](https://guides.github.com/features/mastering-markdown/)  
-    (Please [email me](mailto:example@csustudent.net?subject=GitHub%20Access) to request access.)
+    (Please [email me](mailto:JBNagle@student.csuniv.net?subject=GitHub%20Access) to request access.)
 
 ## Project description
 Forecite Uploads is a web-based tool that allows users to upload documents for automated analysis. The system processes the uploaded files to extract citations, parse the content, and organize key information to support research and document review. This helps users quickly identify references and important material within academic or research documents.
