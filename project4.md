@@ -22,7 +22,7 @@ Inside of NetBeans:
 Run Program
 ```
 
-![screenshot](images/Screenshot 2026-04-14 113856.png)  
+![screenshot](images/Screenshot 2026-04-14 200904.png)  
 Fig 1. Results
 
 
