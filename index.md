@@ -36,10 +36,10 @@ Ethics Papers
 -   **Class: CSCI 419: Database Management**  
 -   **Grade: C**
 
-### [Therac - 25](/pdf/sample_presentation.pdf)
+### [Therac - 25](pdf/ethics_paper_315.pdf)
 
--   **Class:** 
--   **Grade:**
+-   **Class: CSCI 315: Data Structures Analysis ** 
+-   **Grade: C**
 
 ### [Paper 3 Title](/pdf/sample_presentation.pdf)
 
