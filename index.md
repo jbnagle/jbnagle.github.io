@@ -31,7 +31,7 @@ Programming Projects
 Ethics Papers
 -------------
 
-### [Paper 1 Title](/pdf/sample_presentation.pdf)
+### [Paper 1 Title](pdf/Ethical_Paper_CSCI419_Submission.pdf)
 
 -   **Class: CSCI 419: Database Management**  
 -   **Grade: C**
