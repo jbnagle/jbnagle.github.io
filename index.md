@@ -53,14 +53,14 @@ Presentations
 
 ### [Compromised Cell](pdf/Presentation2Portfoli.pptx)
 
-- **Class:CSCI 352: Cyber security** 
+- **Class:CSCI 405: Principles of Cyber security** 
+- **Grade: B**
+
+
+### [Password Cracking with Linux](pdf/Final Project Password Cracking with Linux WCarpenter JNagle ATaylor.pptx)
+
+- **Class:CSCI 352: Cyber Security** 
 - **Grade: A**
-
-
-### [Presentation 2 Title](/pdf/sample_presentation.pdf)
-
-- **Class:** 
-- **Grade:**
 
 ---
 
