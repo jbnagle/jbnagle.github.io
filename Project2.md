@@ -4,7 +4,7 @@ Minimum Overlap Coverage | CSCI 315
 ===============
 
 -   **Class:CSCI 315 : Data Structures Analysis ** 
--   **Grade: A** 
+-   **Grade: C** 
 -   **Language(s): C++ ** 
 -   **Source Code Repository:** [features/mastering-markdown](https://guides.github.com/features/mastering-markdown/)  
     (Please [email me](mailto:example@csustudent.net?subject=GitHub%20Access) to request access.)
