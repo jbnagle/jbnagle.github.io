@@ -6,7 +6,7 @@
 -   **Class:CSCI 495: Sys Analy & Softw Design** 
 -   **Grade: A** 
 -   **Language(s): HTML, Python** 
--   **Source Code Repository:** [jbnagle/CSCI-497-499](https://guides.github.com/features/mastering-markdown/)  
+-   **Source Code Repository:** [jbnagle/CSCI-497-499](https://github.com/csu-cs/csci495-Fall25-blueTeam-citationParser)  
     (Please [email me](mailto:JBNagle@student.csuniv.net?subject=GitHub%20Access) to request access.)
 
 ## Project description
