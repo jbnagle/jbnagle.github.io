@@ -1,6 +1,6 @@
 [Back to Portfolio](./)
 
-Math Problem Solving Website | CSCI 497-499
+Cyber Math | CSCI 497-499
 ===============
 
 -   **Class:CSCI 497-499 : Senior Project ** 
