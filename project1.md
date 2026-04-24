@@ -41,6 +41,6 @@ Fig 4. Matching Game
 ![screenshot](images/Screenshot 2026-04-14 120835.png)  
 Fig 5. Performance Dashboard
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+For more details see [GitHub Flavored Markdown](https://1drv.ms/w/c/2eb5d071814cfd43/IQC4DPC--WNgQbLEphMpcdjiAceFU-FYAVID5iJUvEUsMDU?e=twaK9e).
 
 [Back to Portfolio](./)
