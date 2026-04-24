@@ -7,7 +7,7 @@ Math Problem Solving Website | CSCI 497-499
 -   **Grade: Pass** 
 -   **Language(s): HTML5, CSS3, JavaScript, Python, and SQL ** 
 -   **Source Code Repository:** [jbnagle/CSCI-497-499](https://github.com/jbnagle/CSCI-497-499)  
-    (Please [email me](mailto:JBNagle@student.csuniv.net?subject=GitHub%20Access) to request access.)
+    
 
 ## Project description
 This project involves the design and development of a safe, interactive website that will be made to help fourth-grade students improve their multiplication and division skills. The website will offer a fun and educational experience through a variety of features such as timed challenges, game-like quizzes, and progress tracking. The main goal is to help students in building math fluency while also promoting cybersecurity safety habits.
