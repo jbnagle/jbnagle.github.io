@@ -7,7 +7,8 @@ Cyber Math | CSCI 497-499
 -   **Grade: Pass** 
 -   **Language(s): HTML5, CSS3, JavaScript, Python, and SQL ** 
 -   **Source Code Repository:** [jbnagle/CSCI-497-499](https://github.com/jbnagle/CSCI-497-499)  
-    
+-   **For more project details see ** [Full Project Documentation](https://1drv.ms/w/c/2eb5d071814cfd43/IQC4DPC--WNgQbLEphMpcdjiAceFU-FYAVID5iJUvEUsMDU?e=twaK9e).
+
 
 ## Project description
 This project involves the design and development of a safe, interactive website that will be made to help fourth-grade students improve their multiplication and division skills. The website will offer a fun and educational experience through a variety of features such as timed challenges, game-like quizzes, and progress tracking. The main goal is to help students in building math fluency while also promoting cybersecurity safety habits.
@@ -41,6 +42,6 @@ Fig 4. Matching Game
 ![screenshot](images/Screenshot 2026-04-14 120835.png)  
 Fig 5. Performance Dashboard
 
-For more details see [Full Project Documentation](https://1drv.ms/w/c/2eb5d071814cfd43/IQC4DPC--WNgQbLEphMpcdjiAceFU-FYAVID5iJUvEUsMDU?e=twaK9e).
+For more project details see [Full Project Documentation](https://1drv.ms/w/c/2eb5d071814cfd43/IQC4DPC--WNgQbLEphMpcdjiAceFU-FYAVID5iJUvEUsMDU?e=twaK9e).
 
 [Back to Portfolio](./)
